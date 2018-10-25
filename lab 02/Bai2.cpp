@@ -25,4 +25,5 @@ int main(){
 	money m;
 	nhap(m);
 	cal(m);
+	return 0;
 }

@@ -25,4 +25,5 @@ int main(){
 	xuat("My",Phone("0908","0909","239"));
 	nhap(p);
 	xuat("Your",p);
+	return 0;
 }
